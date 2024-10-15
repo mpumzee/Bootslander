@@ -1,3 +1,26 @@
 About us 
 
-MyCharge Technologies  is a software startup that offers  digital utility app services that help compliment service delivery by local authorities in Zimbabwe and Africa, our digital products are there to help promote fair pricing and transparency in the billing of households for water & power utility needs. Our flagship product is the MyCharge webapp that allows residents to capture and store their water meter readings that they can help to verify inaccurate water bills and also to know the amount of water they consume per given month.
+MyCharge Technologies  is a software startup that offers  digital utility app services that help 
+compliment service delivery by local authorities in Zimbabwe and Africa, our digital products are 
+there to help promote fair pricing and transparency in the billing of households for water & power 
+utility needs. Our flagship product is the MyCharge webapp that allows residents to capture and store
+ their water meter readings that they can help to verify inaccurate water bills and also to know the
+  amount of water they consume per given month.
+
+
+Yeah I just saw it. So here are the parts I believe we can add 
+
+1. Pricing- We charge a subscription fee of a $1/ household in a given month for the use of our app.
+2. Tag line- Lets rather say is a " Water metering app for storing  water meter readings. 
+3. Product - Under product stage, lets highlight what the product does. 
+ i.e Capture & Upload meter readings - You can include a snapshot of your meter that you capture its snapshot at your place. 
+Report sewer bursts- You add a picture of burst sewer and mention that people can report this via app.
+Water Schedule- Describe how people can access their water scheduling timetable and we include a picture of the BCC schedule.
+Verify inaccurate water bills by presenting data to BCC. Here we can include the tower block picture where people go rectify their bills using the data they have.
+Finally we can have picture that highlights that people can pay for their bills via the app using an payment methods be it Ecocash or any other and we include a picture also.
+
+So all the above are meant to be to be under the products handle.
+
+4.  Lastly we have the Partners page. Here you can list BCC, City of Harare Council, Starlink, Ecocash, ZINWA and as you list them, you can include their logos.
+
+I think those are the areas I think needed touching up, otherwise its a good page that you've created. I like the UI and design
